@@ -1,6 +1,6 @@
 # Phototropic Solar Panel
 
-> [!INFO]
+> [!NOTE]
 > This was made as part of an integration project in the Winter 2025 term.
 
 Code for an Arduino-powered solar panel assembly that follows the Sun around one rotational axis. The position of the Sun is determined using an array of photoresistors. For the sake of simplicity, there is no "Position 0" switch to home the stepper motor; it must be at the "zero" angle upon boot.
