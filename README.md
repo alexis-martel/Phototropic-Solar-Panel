@@ -12,9 +12,9 @@ Code for an Arduino-powered solar panel assembly that follows the Sun around one
 
 ## Parts used
 
-- Espressif ESP32-S3 development board from Adafruit;
-- Texas Instruments INA260 power monitor breakout board from Adafruit;
-- Texas Instruments BQ24074 battery charger breakout board from Adafruit;
-- Toshiba TB6612 motor driver breakout board from Adafruit;
+- [Espressif ESP32-S3 Metro development board from Adafruit](https://www.adafruit.com/product/5500);
+- [Texas Instruments INA260 power monitor breakout board from Adafruit](https://www.adafruit.com/product/4226);
+- [Texas Instruments BQ24074 battery charger breakout board from Adafruit](https://www.adafruit.com/product/4755);
+- [Toshiba TB6612 motor driver breakout board from Adafruit](https://www.adafruit.com/product/2448);
 - 200-step 12V 350mA NEMA-17 stepper motor;
 - Cadmium-sulfide photoresistors.
