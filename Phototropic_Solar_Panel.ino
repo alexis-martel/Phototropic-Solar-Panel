@@ -1,39 +1,29 @@
-// 2025-02-06 Alexis Andrew Martel
-// Phototropic Solar Panel
-
+/*
+  2025-02-06 Alexis Andrew Martel
+  Phototropic Solar Panel
+*/
 /*
   WARNING!
-  All angle measures are in radians.
+  --------
+  All angle measures are in radians!
+  Panel must be powered on at position zero to prevent cable management vortex hell!
 */
 
-// Libraries used
-#include <Stepper.h>
-#include <Adafruit_INA260.h>
-#include "SdFat.h"
+#include <Stepper.h>          // Needed to control the motor through the TB6612 driver
+#include <Adafruit_INA260.h>  // Needed to get voltage, amperage and power measurements from the INA260 breakout via I^2C
+#include "SdFat.h"            // Needed for historical measurements of INA260 data
+
+// Global constants
+const int AXLE_MOTOR_STEPS = 100;
+const double AXLE_GEAR_RATIO = 3 / 5;
 
 // Global variables
-const int PHOTORESISTOR_PAIRS[4][2] = { { A0, A1 }, { A1, A2 }, { A2, A3 }, { A3, A0 } };
+double axle_angle = 0;
 
 // Helper functions
-int reduceAngle(int angle) {
-  // Reduces the input angle to a value between 0 and 360º
-  return angle % 360;
-}
-
-int getHighestPhotoresistorPair(int pairs[][2]) {
-  // Returns the index of the pair with the highest combined detected luminosity
-  int numPairs = sizeof(pairs) / sizeof(pairs[0]);
-  for(;;) {
-
-  }
-}
-
-float getBaseAngle(int pair, int totalPairs) {
-  // Returns the base angle of the pair, to which will be added the linearly estimated middle-point from that angle
-}
-
-float getMiddlePointRemainder(int pair, int totalPairs) {
-  // Returns a linear estimate of the remaining angular distance
+int reduceAngle(double angle) {
+  // Reduces the input angle to a value between 0 and 2π
+  return fmod(angle, TWO_PI);
 }
 
 void setup() {
