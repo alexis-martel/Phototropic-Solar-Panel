@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.8238897in"
+   height="8.0239449in"
+   viewBox="0 0 847.09341 770.29871"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Schéma_Électrique_Simple.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:export-filename="/Users/alexis/Downloads/Schéma_Électrique_Simple.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="0.66395649"
+     inkscape:cx="215.37556"
+     inkscape:cy="492.50215"
+     inkscape:window-width="1400"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="-37.253339"
+       originy="-18.053335"
+       spacingx="19.200001"
+       spacingy="19.200001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="847.09344"
+       height="770.29871"
+       id="page6"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="76.800003"
+       y="134.40001"
+       width="115.2"
+       height="76.800003"
+       id="rect7" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.253338,-18.053335)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="192"
+       height="268.80002"
+       x="38.400002"
+       y="38.400002" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="153.60001"
+       height="96"
+       x="384"
+       y="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="153.60001"
+       height="115.2"
+       x="633.60004"
+       y="153.60001" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="268.80002"
+       height="192"
+       x="422.40002"
+       y="384" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.69431;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="132.85234"
+       height="153.19904"
+       x="77.000504"
+       y="422.60052" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       cx="115.20001"
+       cy="691.20001"
+       r="19.200001" />
+    <text
+       xml:space="preserve"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="58.602951"
+       y="177.4693"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="58.602951"
+         y="177.4693"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">PANNEAU SOLAIRE 12V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="402.84909"
+       y="143.90329"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="402.84909"
+         y="143.90329">INA260</tspan><tspan
+         sodipodi:role="line"
+         x="402.84909"
+         y="162.23666"
+         id="tspan10">MESURE V, I, P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="679.0686"
+       y="206.70259"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="679.0686"
+         y="206.70259">BQ24074</tspan><tspan
+         sodipodi:role="line"
+         x="679.0686"
+         y="225.03596"
+         id="tspan12">CHARGEUR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="497.20001"
+       y="474.00003"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="497.20001"
+         y="474.00003">METRO ESP32-S3</tspan><tspan
+         sodipodi:role="line"
+         x="497.20001"
+         y="492.3334"
+         id="tspan14">MICROCONTRÔLEUR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.0147;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="96.000008"
+       y="460.80002"
+       id="text15"
+       transform="translate(7.4623809,22.972796)"><tspan
+         x="96.000008"
+         y="460.80002"
+         id="tspan20"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'AnonymicePro Nerd Font Bold'"
+           id="tspan1">TB6612
+</tspan></tspan><tspan
+         x="96.000008"
+         y="479.1334"
+         id="tspan22"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'AnonymicePro Nerd Font Bold'"
+           id="tspan21">CONTRÔLEUR </tspan></tspan><tspan
+         x="96.000008"
+         y="497.46678"
+         id="tspan24"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'AnonymicePro Nerd Font Bold'"
+           id="tspan23">MOTEUR</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="111.86276"
+       y="695.87286"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="111.86276"
+         y="695.87286">M</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-0"
+       cx="172.8"
+       cy="691.20001"
+       r="19.200001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       x="169.46275"
+       y="695.87286"
+       id="text34-2"><tspan
+         sodipodi:role="line"
+         id="tspan34-3"
+         x="169.46275"
+         y="695.87286">M</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 633.60003,230.40001 H 230.40001"
+       id="path34" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 230.40001,153.60001 H 384.00002"
+       id="path35" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 537.60002,153.60001 h 38.4 v 57.6 h 57.60001"
+       id="path36" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 403.20002,614.40002 h 4.8 l 4.8,-9.6 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-9.6 h 4.8"
+       id="path37-3-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 403.20002,652.80003 h 4.8 l 4.8,-9.6 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-19.2 4.8,19.2 4.8,-9.6 h 4.8"
+       id="path37-3-1-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 652.80003,268.80001 652,382.85334"
+       id="path43" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 672.00003,268.80001 V 384.00002"
+       id="path44" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 518.40002,96.000004 V 76.800003 H 825.60003 V 422.40002 h -134.4"
+       id="path45" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 499.20002,96.000004 V 57.600002 H 844.80003 V 441.60002 h -153.6"
+       id="path46" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 480.00002,96.000004 V 38.400002 H 864.00003 V 460.80002 h -172.8"
+       id="path47" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 460.80002,96.000004 V 19.200001 H 883.20004 V 480.00002 H 710.40003 V 787.20003 H 384.00002 v -9.6"
+       id="path48"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-dasharray:none;stroke-opacity:1"
+       id="rect48"
+       width="134.40001"
+       height="115.19998"
+       x="76.800003"
+       y="652.80005" />
+    <g
+       id="g12"
+       transform="translate(96.000029,-69.599973)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 383.99999,741.6 v 4.8 l 9.6,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 9.6,4.8 v 4.8"
+         id="path37" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+         id="path51"
+         cx="768"
+         cy="-384.00003"
+         rx="22.719193"
+         ry="22.724527"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="g12-5"
+       transform="translate(153.59999,-69.599973)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 383.99999,741.6 v 4.8 l 9.6,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 19.2,4.8 -19.2,4.8 9.6,4.8 v 4.8"
+         id="path37-8" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29333;stroke-linejoin:miter;stroke-miterlimit:5.4;stroke-dasharray:none;stroke-opacity:1"
+         id="path51-2"
+         cx="768"
+         cy="-384.00003"
+         rx="22.719193"
+         ry="22.724527"
+         transform="rotate(90)" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.000004,576.00002 v 76.80001"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 115.2,576.00002 v 76.80001"
+       id="path2" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192.00001,576.00002 v 76.80001"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 172.80001,576.00002 v 76.80001"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 480.00002,724.80003 v 43.2"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1"
+       d="m 422.40002,499.20002 h -57.60001 v 268.80001 h 172.80001 l -4e-5,-43.2"
+       id="path20"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 422.40002,518.40002 h -38.4 v 134.40001 h 19.2"
+       id="path5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 384.00002,614.40002 h 19.2"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 537.60002,576.00002 v 96.00001"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 480.00002,576.00002 v 96.00001"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 480.00002,652.80003 h -24"
+       id="path10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 489.60002,614.40002 h 48"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       d="m 456.00002,614.40002 h 14.4"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       id="path16"
+       sodipodi:type="arc"
+       sodipodi:cx="480.00003"
+       sodipodi:cy="-615.55939"
+       sodipodi:rx="9.6000004"
+       sodipodi:ry="9.6000004"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 489.60003,-615.55939 a 9.6000004,9.6000004 0 0 1 -4.8,8.31385 9.6000004,9.6000004 0 0 1 -9.6,0 9.6000004,9.6000004 0 0 1 -4.8,-8.31385"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.304"
+       id="path16-1"
+       sodipodi:type="arc"
+       sodipodi:cx="-767.90509"
+       sodipodi:cy="-385.15201"
+       sodipodi:rx="9.6000004"
+       sodipodi:ry="9.6000004"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -758.30509,-385.15201 a 9.6000004,9.6000004 0 0 1 -4.8,8.31385 9.6000004,9.6000004 0 0 1 -9.6,0 9.6000004,9.6000004 0 0 1 -4.8,-8.31385"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="402.1748"
+       y="511.61194"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="402.1748"
+         y="511.61194"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="215.10959"
+       y="494.24875"
+       id="text16-8"><tspan
+         sodipodi:role="line"
+         id="tspan16-47"
+         x="215.10959"
+         y="494.24875"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="214.95724"
+       y="512.30994"
+       id="text16-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan16-47-0"
+         x="214.95724"
+         y="512.30994"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-147.59583"
+       y="720.27686"
+       id="text16-4"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5"
+         x="-147.59583"
+         y="720.27686"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-287.92188"
+       y="682.41284"
+       id="text16-4-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-3"
+         x="-287.92188"
+         y="682.41284"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-377.19064"
+       y="663.13025"
+       id="text16-4-8-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-3-4"
+         x="-377.19064"
+         y="663.13025"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-287.74609"
+       y="663.21619"
+       id="text16-4-8-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-3-1"
+         x="-287.74609"
+         y="663.21619"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">OUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-147.86536"
+       y="663.75531"
+       id="text16-4-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8"
+         x="-147.86536"
+         y="663.75531"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">LIPO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-91.810478"
+       y="491.53064"
+       id="text16-4-5-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0"
+         x="-91.810478"
+         y="491.53064"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">SDA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-91.810478"
+       y="471.71356"
+       id="text16-4-5-2-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4"
+         x="-91.810478"
+         y="471.71356"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">SCL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-91.626884"
+       y="453.97229"
+       id="text16-4-5-2-3-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6"
+         x="-91.626884"
+         y="453.97229"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-418.02689"
+       y="89.172279"
+       id="text16-4-5-2-3-5-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6-0"
+         x="-418.02689"
+         y="89.172279"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VMOTOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-418.02689"
+       y="129.25029"
+       id="text16-4-5-2-3-5-6-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6-0-9"
+         x="-418.02689"
+         y="129.25029"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">AIN2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-418.02689"
+       y="147.4711"
+       id="text16-4-5-2-3-5-6-6-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6-0-9-5"
+         x="-418.02689"
+         y="147.4711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">AIN1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-418.44876"
+       y="165.91191"
+       id="text16-4-5-2-3-5-6-6-6-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6-0-9-5-1"
+         x="-418.44876"
+         y="165.91191"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">BIN1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-418.44876"
+       y="184.73232"
+       id="text16-4-5-2-3-5-6-6-6-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-4-6-0-9-5-10"
+         x="-418.44876"
+         y="184.73232"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">BIN2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-91.474541"
+       y="511.49799"
+       id="text16-4-5-2-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-5-8-0-8"
+         x="-91.474541"
+         y="511.49799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="483.32346"
+       y="585.48676"
+       id="text16-1"><tspan
+         sodipodi:role="line"
+         id="tspan16-8"
+         x="483.32346"
+         y="585.48676"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">A0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="420.93448"
+       y="597.07892"
+       id="text16-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5"
+         x="420.93448"
+         y="597.07892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">10kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="420.93448"
+       y="636.57855"
+       id="text16-1-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-3"
+         x="420.93448"
+         y="636.57855"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">10kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-609.53082"
+       y="90.705231"
+       id="text16-1-0-7-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-3-3"
+         x="-609.53082"
+         y="90.705231"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">MOT A +</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-609.53082"
+       y="111.20365"
+       id="text16-1-0-7-8-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-3-3-1"
+         x="-609.53082"
+         y="111.20365"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">MOT A -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-609.53082"
+       y="168.90289"
+       id="text16-1-0-7-8-6-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-3-3-1-0"
+         x="-609.53082"
+         y="168.90289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">MOT B +</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-609.53082"
+       y="187.8829"
+       id="text16-1-0-7-8-6-7-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-3-3-1-0-4"
+         x="-609.53082"
+         y="187.8829"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">MOT B -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="540.40326"
+       y="585.5766"
+       id="text16-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-1"
+         x="540.40326"
+         y="585.5766"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">A1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="402.92871"
+       y="491.2738"
+       id="text16-5"><tspan
+         sodipodi:role="line"
+         id="tspan16-4"
+         x="402.92871"
+         y="491.2738"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VHI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="406.70996"
+       y="472.07379"
+       id="text16-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-2"
+         x="406.70996"
+         y="472.07379"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">D7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="406.64746"
+       y="453.51407"
+       id="text16-5-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-2-8"
+         x="406.64746"
+         y="453.51407"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">D6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="406.6709"
+       y="434.32425"
+       id="text16-5-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-2-3"
+         x="406.6709"
+         y="434.32425"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">D5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="406.70996"
+       y="415.23297"
+       id="text16-5-9-11"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-2-1"
+         x="406.70996"
+         y="415.23297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">D4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="239.86119"
+       y="224.56859"
+       id="text16-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-3"
+         x="239.86119"
+         y="224.56859"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">-</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 384.00002,652.80003 v 105.6"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:114.797;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.304;stroke-opacity:1"
+       x="80.556503"
+       y="742.03949"
+       id="text21"
+       transform="translate(11.89149,-7.212406)"><tspan
+         x="80.556503"
+         y="742.03949"
+         id="tspan28"><tspan
+           style="font-weight:bold;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold'"
+           id="tspan27">MOTEUR PAS-À-</tspan></tspan><tspan
+         x="80.556503"
+         y="760.82081"
+         id="tspan30"><tspan
+           style="font-weight:bold;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold'"
+           id="tspan29">PAS</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="M 652.80003,153.60001 V 115.2 h 19.2"
+       id="path21" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 691.20003,115.2 h 19.2 v 38.40001"
+       id="path22" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="M 676.80003,124.8 V 105.6"
+       id="path23" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 686.40003,120 v -9.6 z"
+       id="path24"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 672.00003,115.2 h 4.8 z"
+       id="path25"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 686.40003,115.2 h 4.8 z"
+       id="path25-9"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.304;stroke-opacity:1"
+       x="673.3161"
+       y="102.76044"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="673.3161"
+         y="102.76044">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.304;stroke-opacity:1"
+       x="684.52551"
+       y="102.87168"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="684.52551"
+         y="102.87168">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="237.81094"
+       y="147.94228"
+       id="text16-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38"
+         x="237.81094"
+         y="147.94228"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="361.19382"
+       y="147.89149"
+       id="text16-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38-2"
+         x="361.19382"
+         y="147.89149"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VIN+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="543.2262"
+       y="147.92206"
+       id="text16-5-7-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38-2-2"
+         x="543.2262"
+         y="147.92206"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VIN-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="611.81091"
+       y="223.73488"
+       id="text16-5-7-1-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38-2-2-6"
+         x="611.81091"
+         y="223.73488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="697.13696"
+       y="414.57053"
+       id="text16-5-7-1-9-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38-2-2-6-58"
+         x="697.13696"
+         y="414.57053"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">VHI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="607.8031"
+       y="204.97484"
+       id="text16-5-7-1-9-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan16-4-38-2-2-6-5"
+         x="607.8031"
+         y="204.97484"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">DCIN</tspan></text>
+    <g
+       id="g1"
+       transform="translate(0,89.421108)">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+         x="-287.92188"
+         y="682.41284"
+         id="text16-4-8-64"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan16-5-3-5"
+           x="-287.92188"
+           y="682.41284"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">GND</tspan></text>
+    </g>
+    <g
+       id="g1-4"
+       transform="translate(85.544812,211.95921)">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+         x="611.25623"
+         y="221.73488"
+         id="text16-5-7-1-9-0-2"><tspan
+           sodipodi:role="line"
+           id="tspan16-4-38-2-2-6-9"
+           x="611.25623"
+           y="221.73488"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">SCL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+         x="611.25623"
+         y="240.7149"
+         id="text16-5-7-1-9-0-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan16-4-38-2-2-6-9-9"
+           x="611.25623"
+           y="240.7149"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">SDA</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-706.53424"
+       y="452.10422"
+       id="text16-1-0-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-0"
+         x="-706.53424"
+         y="452.10422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">10kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.304"
+       x="-706.53424"
+       y="510.46344"
+       id="text16-1-0-3-9"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-5-0-1"
+         x="-706.53424"
+         y="510.46344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'AnonymicePro Nerd Font';-inkscape-font-specification:'AnonymicePro Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none">10kΩ</tspan></text>
+    <g
+       id="g28"
+       transform="translate(-2,-8)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1;marker-start:url(#Triangle)"
+         d="m 569.1974,690.16965 19.2,-9.6 z"
+         id="path27"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1;marker-start:url(#Triangle)"
+         d="m 568.68221,681.60003 19.2,-9.6 z"
+         id="path27-9"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g28-8"
+       transform="translate(-62,-8)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1;marker-start:url(#Triangle-9)"
+         d="m 569.1974,690.16965 19.2,-9.6 z"
+         id="path27-3"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1;marker-start:url(#Triangle-9)"
+         d="m 568.68221,681.60003 19.2,-9.6 z"
+         id="path27-9-5"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="M 652.80003,326.40001 H 96.000004 v 96.00001"
+       id="path28" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 211.20001,499.20002 h 153.6"
+       id="path29"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 211.20001,518.40002 h 134.4 v 268.80001 h 38.40001"
+       id="path30" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 192.00001,422.40002 v -19.2 h 57.6 v 76.8 h 172.80001"
+       id="path31" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 172.80001,422.40002 v -38.4 h 96 v 76.8 h 153.60001"
+       id="path32" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 153.60001,422.40002 v -57.60001 h 134.4 v 76.80001 h 134.40001"
+       id="path33" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.304;stroke-opacity:1"
+       d="m 134.40001,422.40002 v -76.80001 h 172.8 v 76.80001 h 115.20001"
+       id="path38" />
+  </g>
+</svg>
