@@ -31,9 +31,18 @@ Adafruit_NeoPixel neopixel(NUM_NEOPIX, PIN_NEOPIXEL, NEO_GRB + NEO_KHZ800);
 Stepper axle_motor(AXLE_MOTOR_STEPS, 4, 5, 6, 7);
 
 // Helper functions
-int reduceAngle(double angle) {
+double reduceAngle(double angle) {
   // Reduces the input angle to a value between 0 and 2π
-  return fmod(fmod(angle, TWO_PI) + TWO_PI, TWO_PI);
+  if (angle >= TWO_PI) {
+    while (angle >= TWO_PI) {
+      angle -= TWO_PI;
+    }
+  } else if (angle < 0) {
+    while (angle < 0) {
+      angle += TWO_PI;
+    }
+  }
+  return angle;
 }
 
 void rotateToAngle(double target_angle, Stepper motor) {
@@ -64,24 +73,31 @@ void blinkColor(uint32_t color, int duration, Adafruit_NeoPixel pixels) {
 
 void setup() {
   // put your setup code here, to run once:
-  neopixel.begin();
-  // Long green blink
-  blinkColor(neopixel.Color(0, 255, 0), 1000, neopixel);
-  // Long yellow blink
-  blinkColor(neopixel.Color(255, 255, 0), 1000, neopixel);
-  // Long red blink
-  blinkColor(neopixel.Color(255, 0, 0), 1000, neopixel);
-  // Two short blue blinks
-  blinkColor(neopixel.Color(0, 0, 255), 250, neopixel);
-  delay(250);
-  blinkColor(neopixel.Color(0, 0, 255), 250, neopixel);
-
   axle_motor.setSpeed(AXLE_MOTOR_SPEED);
   Serial.begin(115200);
+  pinMode(LED_BUILTIN, OUTPUT);
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
+  // LED startup sequence
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(2000);
+  digitalWrite(LED_BUILTIN, LOW);
+  // Testing
+  while (!Serial) {
+    delay(1);
+  }
+  Serial.print(reduceAngle((PI/4)+PI));
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
+
 }
